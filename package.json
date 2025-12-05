@@ -39,7 +39,8 @@
   "dependencies": {
     "@stdlib/constants-float16-exponent-bias": "^0.2.2",
     "@stdlib/constants-float16-exponent-mask": "github:stdlib-js/constants-float16-exponent-mask#main",
-    "@stdlib/number-float16-base-to-word": "github:stdlib-js/number-float16-base-to-word#main"
+    "@stdlib/number-float16-base-to-word": "github:stdlib-js/number-float16-base-to-word#main",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.2"
   },
   "devDependencies": {
     "@stdlib/array-base-map": "github:stdlib-js/array-base-map#main",
