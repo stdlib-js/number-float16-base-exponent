@@ -43,7 +43,7 @@
     "@stdlib/constants-float16-exponent-bias": "^0.3.0",
     "@stdlib/constants-float16-exponent-mask": "^0.1.0",
     "@stdlib/constants-float16-num-significand-bits": "^0.0.1",
-    "@stdlib/number-float16-base-to-word": "github:stdlib-js/number-float16-base-to-word#main",
+    "@stdlib/number-float16-base-to-word": "^0.1.0",
     "@stdlib/number-float16-ctor": "^0.1.0",
     "@stdlib/number-float64-base-to-float16": "^0.1.0",
     "@stdlib/utils-library-manifest": "^0.2.3"
